@@ -51,7 +51,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   <h1>
     test
   </h1>
-    <img src="https://cdn.discordapp.com/avatars/478126443168006164/303ac313afee7583cc8ef8bd2e1ad1bd.png?size=1024">
+    <img src="https://cdn.discordapp.com/avatars/478126443168006164/303ac313afee7583cc8ef8bd2e1ad1bd.png?size=1024" width="50" height="50">
 </body>
 </html>
 
